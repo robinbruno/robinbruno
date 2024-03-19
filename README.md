@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">and am a Fullstack-Developer from Berlin in devenir...</h3>
+<h3 align="center">Hi 👋, I'm Romain and am a Fullstack-Developer from Berlin in devenir...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinbruno&label=Profile%20views&color=0e75b6&style=flat" alt="robinbruno" /> </p>
+<h4>🔭 I’m currently focusing on learning new Languages and just got graduated from WebDev Bootcamp at le Wagon.</h4>
+<h4>👯 I am eager to collaborate on coding projects and continue expanding my knowledge in software development.</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
