@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19462
-Fork on GitHub5811
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">and am a Fullstack-Developer from Berlin in devenir...</h3>
 
